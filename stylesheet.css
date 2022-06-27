@@ -80,6 +80,7 @@ hr {
 
 .skills {
   position: relative;
+  width: 100%;
 }
 
 .skill-row {
